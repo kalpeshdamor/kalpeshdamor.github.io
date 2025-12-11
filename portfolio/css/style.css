@@ -9624,8 +9624,8 @@ h4, h5, h6 {
 }
 
 .service-item i {
-  width: 75px;
-  height: 75px;
+  width: 30px;
+  height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
